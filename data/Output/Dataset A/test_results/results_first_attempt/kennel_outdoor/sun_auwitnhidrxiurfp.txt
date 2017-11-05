@@ -1,0 +1,3 @@
+1384.43394394 coast
+1542.41290979 kennel_outdoor
+1657.77286852 volleyball_court_indoor

@@ -1,0 +1,3 @@
+268.573246387 coast
+223.574837997 kennel_outdoor
+240.020591067 volleyball_court_indoor

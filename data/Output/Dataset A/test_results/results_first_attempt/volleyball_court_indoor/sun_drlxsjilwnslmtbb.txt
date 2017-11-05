@@ -1,0 +1,3 @@
+27.688745335 coast
+40.0852466734 kennel_outdoor
+57.9842723838 volleyball_court_indoor
