@@ -10,7 +10,6 @@ The programs are contained in the directory src/py
 
 To run the programs, use python2. (example command - "python test_text.py")
 
-
 The input directory is data/Input
 You can put more data in the prescribed format and run the programs for it.
 
