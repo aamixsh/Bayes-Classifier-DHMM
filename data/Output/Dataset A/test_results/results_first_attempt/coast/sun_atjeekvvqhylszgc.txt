@@ -1,3 +1,3 @@
 350.04350484 coast
-397.731099257 kennel_outdoor
-444.019581318 volleyball_court_indoor
+425.0818563 kennel_outdoor
+334.841215035 volleyball_court_indoor

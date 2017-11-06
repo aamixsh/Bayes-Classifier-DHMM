@@ -1,3 +1,3 @@
 8.61835866441 coast
-16.6490168014 kennel_outdoor
-19.4927463236 volleyball_court_indoor
+13.6663969089 kennel_outdoor
+16.5558698695 volleyball_court_indoor

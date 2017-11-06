@@ -328,7 +328,7 @@ for contents in os.listdir(directory):
 			for i in range(len(classes)):
 				if data[len(data)-1][1]==classes[i]:
 					classifyInd=i
-			confusionMatrix[classInd][classifyInd]+=1
+			confusionMatrix[classifyInd][classInd]+=1
 
 Sumtot=0
 for i in range(len(classes)):

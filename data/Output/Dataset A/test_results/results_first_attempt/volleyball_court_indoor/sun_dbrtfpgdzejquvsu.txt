@@ -1,3 +1,3 @@
 211.203728949 coast
-235.634942243 kennel_outdoor
-235.658382559 volleyball_court_indoor
+244.784503098 kennel_outdoor
+242.228052036 volleyball_court_indoor

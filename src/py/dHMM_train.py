@@ -385,7 +385,7 @@ for c in range(len(classes)):
 		for j in range(M):
 			outFileTotal.write(str(B[i][j])+" ")
 		outFileTotal.write("\n")
-	outFile.close()
+	outFileTotal.close()
 
 print "Done. Modelling ready for testing."
 
