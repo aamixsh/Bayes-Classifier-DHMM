@@ -1,0 +1,3 @@
+72.6096616846 coast
+64.3157732656 kennel_outdoor
+94.3381620948 volleyball_court_indoor

@@ -1,3 +1,6 @@
 1384.43394394 coast
 1751.81048279 kennel_outdoor
 1701.13003071 volleyball_court_indoor
+1384.43394394 coast
+1751.81048279 kennel_outdoor
+1701.13003071 volleyball_court_indoor

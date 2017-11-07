@@ -1,3 +1,6 @@
 590.853438929 coast
 663.398835811 kennel_outdoor
 598.170311265 volleyball_court_indoor
+590.853438929 coast
+663.398835811 kennel_outdoor
+598.170311265 volleyball_court_indoor

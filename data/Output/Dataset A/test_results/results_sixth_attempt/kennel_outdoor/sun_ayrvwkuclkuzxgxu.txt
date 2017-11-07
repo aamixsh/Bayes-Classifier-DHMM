@@ -1,0 +1,3 @@
+328.163607115 coast
+340.468644301 kennel_outdoor
+387.956965192 volleyball_court_indoor

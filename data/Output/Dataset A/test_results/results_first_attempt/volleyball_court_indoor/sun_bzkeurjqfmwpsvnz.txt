@@ -1,3 +1,6 @@
 220.635164785 coast
 280.784748384 kennel_outdoor
 198.858606374 volleyball_court_indoor
+220.635164785 coast
+280.784748384 kennel_outdoor
+198.858606374 volleyball_court_indoor

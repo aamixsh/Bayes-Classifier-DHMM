@@ -1,0 +1,3 @@
+980.950662193 coast
+1276.88256043 kennel_outdoor
+1948.24504648 volleyball_court_indoor

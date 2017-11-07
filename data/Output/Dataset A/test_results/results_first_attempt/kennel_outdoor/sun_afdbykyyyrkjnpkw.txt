@@ -1,3 +1,6 @@
 305.965011872 coast
 332.197327146 kennel_outdoor
 310.278239169 volleyball_court_indoor
+305.965011872 coast
+332.197327146 kennel_outdoor
+310.278239169 volleyball_court_indoor

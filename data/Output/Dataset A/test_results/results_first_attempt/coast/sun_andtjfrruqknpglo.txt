@@ -1,3 +1,6 @@
 27.8565532117 coast
 25.2928489229 kennel_outdoor
 16.6503068322 volleyball_court_indoor
+27.8565532117 coast
+25.2928489229 kennel_outdoor
+16.6503068322 volleyball_court_indoor

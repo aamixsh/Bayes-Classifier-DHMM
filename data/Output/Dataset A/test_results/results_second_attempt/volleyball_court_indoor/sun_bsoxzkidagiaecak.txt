@@ -1,0 +1,3 @@
+484.52765998 coast
+518.095333425 kennel_outdoor
+859.520370882 volleyball_court_indoor

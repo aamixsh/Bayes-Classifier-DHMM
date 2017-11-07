@@ -1,0 +1,3 @@
+49.1393610942 coast
+40.1036776814 kennel_outdoor
+38.7128896195 volleyball_court_indoor

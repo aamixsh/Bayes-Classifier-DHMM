@@ -1,0 +1,3 @@
+1380.91502008 coast
+1712.70547987 kennel_outdoor
+1697.55409231 volleyball_court_indoor

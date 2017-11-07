@@ -1,3 +1,6 @@
 401.442472072 coast
 440.180849645 kennel_outdoor
 432.356713775 volleyball_court_indoor
+401.442472072 coast
+440.180849645 kennel_outdoor
+432.356713775 volleyball_court_indoor

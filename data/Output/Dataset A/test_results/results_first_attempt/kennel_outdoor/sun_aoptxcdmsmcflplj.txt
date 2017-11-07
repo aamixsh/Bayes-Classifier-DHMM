@@ -1,3 +1,6 @@
 1402.16683387 coast
 1916.27013655 kennel_outdoor
 2108.17109003 volleyball_court_indoor
+1402.16683387 coast
+1916.27013655 kennel_outdoor
+2108.17109003 volleyball_court_indoor

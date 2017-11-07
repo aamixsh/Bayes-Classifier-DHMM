@@ -1,3 +1,6 @@
 31.5177427173 coast
 47.7739910501 kennel_outdoor
 34.8064447019 volleyball_court_indoor
+31.5177427173 coast
+47.7739910501 kennel_outdoor
+34.8064447019 volleyball_court_indoor

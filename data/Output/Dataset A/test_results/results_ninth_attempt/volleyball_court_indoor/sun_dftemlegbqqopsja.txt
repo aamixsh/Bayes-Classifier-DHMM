@@ -1,0 +1,3 @@
+85.4813689778 coast
+110.91332665 kennel_outdoor
+110.685362353 volleyball_court_indoor

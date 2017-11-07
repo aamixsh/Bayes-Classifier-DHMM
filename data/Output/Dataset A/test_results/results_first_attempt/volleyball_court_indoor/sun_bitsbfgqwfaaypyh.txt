@@ -1,3 +1,6 @@
 2231.54945441 coast
 3037.46751084 kennel_outdoor
 3434.14558104 volleyball_court_indoor
+2231.54945441 coast
+3037.46751084 kennel_outdoor
+3434.14558104 volleyball_court_indoor

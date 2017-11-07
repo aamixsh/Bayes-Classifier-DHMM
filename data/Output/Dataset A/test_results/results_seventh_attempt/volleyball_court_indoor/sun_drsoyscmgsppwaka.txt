@@ -1,0 +1,3 @@
+60.4502485134 coast
+52.7030643373 kennel_outdoor
+58.6906455787 volleyball_court_indoor

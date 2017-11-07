@@ -1,0 +1,3 @@
+29.2313679544 coast
+30.8731009289 kennel_outdoor
+23.646012291 volleyball_court_indoor

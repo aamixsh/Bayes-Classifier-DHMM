@@ -136,7 +136,7 @@ def calcConfusion():
 			x+=1
 	return confusionMatrix
 
-#	Returns first element as key for 'elem'.
+#	Returns First element as key for 'elem'.
 def takeFirst(elem):
 	return elem[0]
 
@@ -232,11 +232,11 @@ if(choice=='o'):
 else:
 	choiceIn=raw_input("Dataset (A/B): ")
 	if choiceIn=='A' or choiceIn=='a':
-		direct="../../data/Output/Dataset A/test_results/model_first_attempt/"
+		direct="../../data/Output/Dataset A/test_results/model_ninth_attempt/"
 		directT="../../data/Output/Dataset A/featureVectorsCH/test/"
 		directO="../../data/Output/Dataset A/test_results/"
 	elif choiceIn=='B' or choiceIn=='b':
-		direct="../../data/Output/Dataset B/test_results/model_first_attempt/"
+		direct="../../data/Output/Dataset B/test_results/model_ninth_attempt/"
 		directT="../../data/Output/Dataset B/featureVectorsSpeech/test/"
 		directO="../../data/Output/Dataset B/test_results/"
 	else:
@@ -290,15 +290,15 @@ for contentsTrain in os.listdir(direct):
 						symbol=classifySymbol(numbers)
 						testSequence.append(symbol)
 					calcAlphaBeta(testSequence)
-					outPath=os.path.join(directO,"results_first_attempt",contentsTest,"temp.txt")
+					outPath=os.path.join(directO,"results_ninth_attempt",contentsTest,"temp.txt")
 					createPath(outPath)
-					outFile=open(os.path.join(directO,"results_first_attempt",contentsTest,os.path.splitext(filename)[0]+".txt"),"a")
+					outFile=open(os.path.join(directO,"results_ninth_attempt",contentsTest,os.path.splitext(filename)[0]+".txt"),"a")
 					outFile.write(str(logP)+" "+contentsTrain+"\n")
 					outFile.close()
 					file.close()
 
 classes=[]
-directory=os.path.join(directO,"results_first_attempt")
+directory=os.path.join(directO,"results_ninth_attempt")
 
 for contents in os.listdir(directory):
 	contentName=os.path.join(directory,contents)

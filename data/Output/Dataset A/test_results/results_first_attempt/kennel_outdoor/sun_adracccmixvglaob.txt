@@ -1,3 +1,6 @@
 1796.64217743 coast
 2167.25645799 kennel_outdoor
 1672.9935218 volleyball_court_indoor
+1796.64217743 coast
+2167.25645799 kennel_outdoor
+1672.9935218 volleyball_court_indoor

@@ -1,3 +1,6 @@
 2522.6621876 coast
 3037.48385958 kennel_outdoor
 2717.54246713 volleyball_court_indoor
+2522.6621876 coast
+3037.48385958 kennel_outdoor
+2717.54246713 volleyball_court_indoor

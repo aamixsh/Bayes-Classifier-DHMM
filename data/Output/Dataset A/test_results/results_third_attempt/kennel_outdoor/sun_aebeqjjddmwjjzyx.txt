@@ -1,0 +1,3 @@
+3641.48201 coast
+4572.71068059 kennel_outdoor
+3926.29670488 volleyball_court_indoor

@@ -1,0 +1,3 @@
+681.269260555 coast
+867.264893038 kennel_outdoor
+1006.72564485 volleyball_court_indoor

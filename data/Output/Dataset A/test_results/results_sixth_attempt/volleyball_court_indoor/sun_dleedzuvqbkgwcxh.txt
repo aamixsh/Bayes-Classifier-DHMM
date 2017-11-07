@@ -1,0 +1,3 @@
+80.8729827999 coast
+53.9662712316 kennel_outdoor
+48.2246138557 volleyball_court_indoor

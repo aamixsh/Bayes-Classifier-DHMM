@@ -1,0 +1,3 @@
+382.004372274 coast
+396.957466669 kennel_outdoor
+347.908976968 volleyball_court_indoor

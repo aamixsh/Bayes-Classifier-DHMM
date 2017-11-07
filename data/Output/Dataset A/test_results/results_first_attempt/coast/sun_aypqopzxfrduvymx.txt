@@ -1,3 +1,6 @@
 729.873093321 coast
 765.689975301 kennel_outdoor
 526.848588594 volleyball_court_indoor
+729.873093321 coast
+765.689975301 kennel_outdoor
+526.848588594 volleyball_court_indoor

@@ -1,0 +1,3 @@
+3205.28601999 coast
+3280.9660407 kennel_outdoor
+2921.25284746 volleyball_court_indoor

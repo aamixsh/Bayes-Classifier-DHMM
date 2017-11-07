@@ -1,3 +1,6 @@
 628.719213396 coast
 676.943067932 kennel_outdoor
 690.758338031 volleyball_court_indoor
+628.719213396 coast
+676.943067932 kennel_outdoor
+690.758338031 volleyball_court_indoor

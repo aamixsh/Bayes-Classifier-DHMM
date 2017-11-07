@@ -1,0 +1,3 @@
+909.07804025 coast
+900.841080291 kennel_outdoor
+782.785340412 volleyball_court_indoor

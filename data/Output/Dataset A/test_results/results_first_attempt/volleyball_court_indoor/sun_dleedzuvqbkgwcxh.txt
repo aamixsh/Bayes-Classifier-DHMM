@@ -1,3 +1,6 @@
 53.041342138 coast
 52.0972126596 kennel_outdoor
 40.7926986634 volleyball_court_indoor
+53.041342138 coast
+52.0972126596 kennel_outdoor
+40.7926986634 volleyball_court_indoor

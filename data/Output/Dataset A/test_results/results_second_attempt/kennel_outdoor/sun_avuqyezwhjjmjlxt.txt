@@ -1,0 +1,3 @@
+16.8462590392 coast
+17.5006190054 kennel_outdoor
+22.7630396526 volleyball_court_indoor

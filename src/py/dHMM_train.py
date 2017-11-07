@@ -11,8 +11,8 @@ import random
 			
 dimension=2									#	Dimension of data vectors.
 hmmType=0									#	Type of HMM, ergodic or left-right.
-N=3											#	Number of states in HMM.
-M=5											#	Number of observation symbols, considered equal for all states.
+N=4											#	Number of states in HMM.
+M=6											#	Number of observation symbols, considered equal for all states.
 A=[]										#	State Transition Probability Distribution.
 B=[]										#	Observation Symbol Probability Distribution.
 Pi=[]										#	Initial State Distribution.
@@ -42,10 +42,10 @@ def calcAlphaBeta(O):
 		Alpha[0][i]=Pi[i]*B[i][O[0]]
 		Beta[len(O)-1][i]=1
 		scaleCoeff[0]+=Alpha[0][i]
-	for i in range(N):
-		Alpha[0][i]/=scaleCoeff[0]
 	
 	#	Calculating Alpha(t).
+	for i in range(N):
+		Alpha[0][i]/=scaleCoeff[0]
 	for t in range(len(O)-1):
 		for j in range(N):
 			Alpha[t+1][j]=B[j][O[t+1]]
@@ -58,6 +58,8 @@ def calcAlphaBeta(O):
 			Alpha[t+1][j]/=scaleCoeff[t+1]
 	
 	#	Calculating Beta(t)
+	for i in range(N):
+		Beta[len(O)-1][i]/=scaleCoeff[len(O)-1]
 	for t in range(len(O)-1):
 		for j in range(N):
 			for i in range(N):
@@ -322,6 +324,7 @@ for c in range(len(classes)):
 		newAnum=[[0 for i in range(N)] for j in range(N)]
 		newAden=[0 for i in range(N)]
 		newBnum=[[0 for i in range(M)] for j in range(N)]
+		newBden=[0 for i in range(N)]
 		newPinum=[0 for i in range(N)]
 		newPiden=0
 
@@ -335,9 +338,12 @@ for c in range(len(classes)):
 					for j in range(N):
 						newAnum[i][j]+=1.0/logP*Xi[t][i][j]
 					newAden[i]+=1.0/logP*Gamma[t][i]
+					newBden[i]+=1.0/logP*Gamma[t][i]
+			for i in range(N):
+				newBden[i]+=1.0/logP*Gamma[len(classObservations[x])-1][i]
 			for t in range(len(classObservations[x])):
 				for i in range(N):
-					for k in range(len(classObservations[x])):
+					for k in range(M):
 						if classObservations[x][t]==k:
 							newBnum[i][k]+=1.0/logP*Gamma[t][i]
 			for i in range(N):
@@ -348,7 +354,7 @@ for c in range(len(classes)):
 			for j in range(N):
 				newA[i][j]=newAnum[i][j]/newAden[i]	
 			for j in range(M):
-				newB[i][j]=newBnum[i][j]/newAden[i]
+				newB[i][j]=newBnum[i][j]/newBden[i]
 
 		A=newA
 		B=newB
@@ -367,8 +373,8 @@ for c in range(len(classes)):
 	print "Done."
 
 	print "Modelling of this class complete. Writing results in files..."
-	createPath(os.path.join(directO,"model_first_attempt",classes[c],"hmm.txt"))
-	outFileTotal=open(os.path.join(directO,"model_first_attempt",classes[c],"hmm.txt"),"w")
+	createPath(os.path.join(directO,"model_ninth_attempt",classes[c],"hmm.txt"))
+	outFileTotal=open(os.path.join(directO,"model_ninth_attempt",classes[c],"hmm.txt"),"w")
 	outFileTotal.write(str(hmmType)+" "+str(N)+" "+str(M)+" "+str(dimension)+"\n")
 	for i in range(len(classesM[c])):
 		for j in range(dimension):

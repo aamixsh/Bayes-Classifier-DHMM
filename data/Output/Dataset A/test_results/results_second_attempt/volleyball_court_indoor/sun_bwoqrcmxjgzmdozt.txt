@@ -1,0 +1,3 @@
+1527.60613966 coast
+1292.32206872 kennel_outdoor
+2094.09704409 volleyball_court_indoor

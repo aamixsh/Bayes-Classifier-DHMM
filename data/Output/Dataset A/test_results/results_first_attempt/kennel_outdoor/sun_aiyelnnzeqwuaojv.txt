@@ -1,3 +1,6 @@
 1054.93426537 coast
 1964.47759038 kennel_outdoor
 2466.7362338 volleyball_court_indoor
+1054.93426537 coast
+1964.47759038 kennel_outdoor
+2466.7362338 volleyball_court_indoor

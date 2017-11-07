@@ -1,0 +1,3 @@
+117.295019925 coast
+127.828222151 kennel_outdoor
+112.860114446 volleyball_court_indoor

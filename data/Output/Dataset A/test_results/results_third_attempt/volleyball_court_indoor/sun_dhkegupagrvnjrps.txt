@@ -1,0 +1,3 @@
+414.31820774 coast
+500.577620405 kennel_outdoor
+418.406685087 volleyball_court_indoor

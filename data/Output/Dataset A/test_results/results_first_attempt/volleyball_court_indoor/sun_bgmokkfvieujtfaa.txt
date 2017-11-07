@@ -1,3 +1,6 @@
 1306.31105968 coast
 1194.01135996 kennel_outdoor
 1428.16691607 volleyball_court_indoor
+1306.31105968 coast
+1194.01135996 kennel_outdoor
+1428.16691607 volleyball_court_indoor

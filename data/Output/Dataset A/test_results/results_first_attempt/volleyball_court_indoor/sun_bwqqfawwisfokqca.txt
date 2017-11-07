@@ -1,3 +1,6 @@
 134.735617975 coast
 271.077203912 kennel_outdoor
 262.784118247 volleyball_court_indoor
+134.735617975 coast
+271.077203912 kennel_outdoor
+262.784118247 volleyball_court_indoor

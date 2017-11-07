@@ -1,0 +1,3 @@
+92.0302444326 coast
+101.77830985 kennel_outdoor
+77.3795601873 volleyball_court_indoor

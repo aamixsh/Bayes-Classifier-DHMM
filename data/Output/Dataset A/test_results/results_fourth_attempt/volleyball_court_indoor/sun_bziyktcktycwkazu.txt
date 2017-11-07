@@ -1,0 +1,3 @@
+2010.61070443 coast
+1978.9108193 kennel_outdoor
+1246.49474793 volleyball_court_indoor

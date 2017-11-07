@@ -1,3 +1,6 @@
 270.530203476 coast
 262.679538595 kennel_outdoor
 260.613006897 volleyball_court_indoor
+270.530203476 coast
+262.679538595 kennel_outdoor
+260.613006897 volleyball_court_indoor

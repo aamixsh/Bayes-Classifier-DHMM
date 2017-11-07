@@ -1,3 +1,6 @@
 416.466798416 coast
 467.597002222 kennel_outdoor
 385.73845506 volleyball_court_indoor
+416.466798416 coast
+467.597002222 kennel_outdoor
+385.73845506 volleyball_court_indoor

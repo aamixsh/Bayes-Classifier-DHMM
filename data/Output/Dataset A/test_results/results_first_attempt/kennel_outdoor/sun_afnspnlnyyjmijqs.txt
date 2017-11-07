@@ -1,3 +1,6 @@
 12.3985371315 coast
 18.0800386665 kennel_outdoor
 11.6810864061 volleyball_court_indoor
+12.3985371315 coast
+18.0800386665 kennel_outdoor
+11.6810864061 volleyball_court_indoor

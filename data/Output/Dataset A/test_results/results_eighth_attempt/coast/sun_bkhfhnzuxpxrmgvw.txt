@@ -1,0 +1,3 @@
+285.37035408 coast
+332.864206985 kennel_outdoor
+200.997312171 volleyball_court_indoor

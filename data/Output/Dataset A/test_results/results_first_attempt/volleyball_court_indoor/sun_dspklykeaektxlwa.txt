@@ -1,3 +1,6 @@
 148.372831343 coast
 213.826171226 kennel_outdoor
 225.457174555 volleyball_court_indoor
+148.372831343 coast
+213.826171226 kennel_outdoor
+225.457174555 volleyball_court_indoor

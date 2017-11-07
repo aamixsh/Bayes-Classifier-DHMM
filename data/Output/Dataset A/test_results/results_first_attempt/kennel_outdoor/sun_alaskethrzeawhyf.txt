@@ -1,3 +1,6 @@
 2372.16000429 coast
 2992.05687777 kennel_outdoor
 3827.57935432 volleyball_court_indoor
+2372.16000429 coast
+2992.05687777 kennel_outdoor
+3827.57935432 volleyball_court_indoor

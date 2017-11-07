@@ -1,0 +1,3 @@
+1132.5230805 coast
+1955.4825438 kennel_outdoor
+2013.87038672 volleyball_court_indoor

@@ -1,3 +1,6 @@
 1320.77864338 coast
 1642.3214769 kennel_outdoor
 1892.82582408 volleyball_court_indoor
+1320.77864338 coast
+1642.3214769 kennel_outdoor
+1892.82582408 volleyball_court_indoor

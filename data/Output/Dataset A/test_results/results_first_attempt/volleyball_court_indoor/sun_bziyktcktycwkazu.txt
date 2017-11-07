@@ -1,3 +1,6 @@
 1956.44829112 coast
 2009.13229152 kennel_outdoor
 2339.67948083 volleyball_court_indoor
+1956.44829112 coast
+2009.13229152 kennel_outdoor
+2339.67948083 volleyball_court_indoor

@@ -1,3 +1,6 @@
 146.035305056 coast
 218.117178021 kennel_outdoor
 219.35354435 volleyball_court_indoor
+146.035305056 coast
+218.117178021 kennel_outdoor
+219.35354435 volleyball_court_indoor

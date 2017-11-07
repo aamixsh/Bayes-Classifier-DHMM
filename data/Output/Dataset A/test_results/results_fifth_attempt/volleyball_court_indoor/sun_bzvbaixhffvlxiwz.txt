@@ -1,0 +1,3 @@
+745.25495106 coast
+595.527589096 kennel_outdoor
+722.062700485 volleyball_court_indoor

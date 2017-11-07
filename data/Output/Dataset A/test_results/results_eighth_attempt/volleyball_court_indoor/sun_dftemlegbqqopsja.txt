@@ -1,0 +1,3 @@
+65.5032019734 coast
+93.2575513266 kennel_outdoor
+105.553527429 volleyball_court_indoor

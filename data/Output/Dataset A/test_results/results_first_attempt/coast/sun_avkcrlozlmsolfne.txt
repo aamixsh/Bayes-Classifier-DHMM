@@ -1,3 +1,6 @@
 97.2870439195 coast
 101.834079841 kennel_outdoor
 85.9590117326 volleyball_court_indoor
+97.2870439195 coast
+101.834079841 kennel_outdoor
+85.9590117326 volleyball_court_indoor

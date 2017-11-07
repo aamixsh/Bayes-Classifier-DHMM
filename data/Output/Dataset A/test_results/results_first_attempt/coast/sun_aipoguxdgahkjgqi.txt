@@ -1,3 +1,6 @@
 3136.17453636 coast
 3286.70941207 kennel_outdoor
 2695.99624931 volleyball_court_indoor
+3136.17453636 coast
+3286.70941207 kennel_outdoor
+2695.99624931 volleyball_court_indoor

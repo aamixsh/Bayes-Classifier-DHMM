@@ -1,0 +1,3 @@
+1317.19741417 coast
+1478.42405822 kennel_outdoor
+1584.06618832 volleyball_court_indoor

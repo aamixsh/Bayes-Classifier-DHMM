@@ -1,0 +1,3 @@
+2010.76631702 coast
+2174.17812826 kennel_outdoor
+1885.95474628 volleyball_court_indoor
